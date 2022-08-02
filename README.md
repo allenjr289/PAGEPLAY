@@ -4,9 +4,9 @@ Get your own.
 
 ## Hello, World!
 
-  print("Hello, World!") #directly into command prompt
- -OR-
-  python helloworld.py #as a created file
+print("Hello, World!") #directly into command prompt
+-OR-
+python helloworld.py #as a created file
 ----------------------------------------
 
 ## Indentation is practical
